@@ -26,3 +26,10 @@ Have a look around my repositories to see what I'm building and what I've worked
 
 ## 🗄️ Database Management
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>
+
+
+## Projects
+List all projects with a short description.
+
+## Contact me through
+Gmail link
