@@ -29,7 +29,10 @@ Have a look around my repositories to see what I'm building and what I've worked
 
 
 ## Projects
-List all projects with a short description.
+- [Final Year Capstone Project](https://github.com/YusufAb04/Capstone_Project_Insight_AI)
+- [Job Market Data Analysis](https://github.com/YusufAb04/Job_Market_Analysis)
+- [Deep Learning Image Classification Study](https://github.com/YusufAb04/Train_DL_model_CIFAR10)
 
-## Contact me through
-Gmail link
+---
+
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:yusuf.abushaaban@gmail.com)
