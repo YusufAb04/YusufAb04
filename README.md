@@ -32,6 +32,7 @@ Have a look around my repositories to see what I'm building and what I've worked
 - [Final Year Capstone Project](https://github.com/YusufAb04/Capstone_Project_Insight_AI)
 - [Job Market Data Analysis](https://github.com/YusufAb04/Job_Market_Analysis)
 - [Deep Learning Image Classification Study](https://github.com/YusufAb04/Train_DL_model_CIFAR10)
+- [Search and Locate Robot](https://github.com/YusufAb04/ROSbot_Search_Locate)
 
 ---
 
