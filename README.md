@@ -37,3 +37,5 @@ Have a look around my repositories to see what I'm building and what I've worked
 ---
 
 [![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:yusuf.abushaaban@gmail.com)
+
+![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/YusufAb04&count_bg=%2379C83D&title_bg=%23555555&icon=eye.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
